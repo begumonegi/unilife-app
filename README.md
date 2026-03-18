@@ -1,7 +1,9 @@
 # 🎓 UniLife App
 
 A modern student productivity and task management app built with **Streamlit** and **SQLite**.
+## 🌐 Live Demo
 
+[👉 Open UniLife App](https://unilife-app-hsct3guzdgwycxuv8wziph.streamlit.app/)
 ---
 
 ## 🚀 Features
